@@ -33,7 +33,7 @@
 
 **Chandu Pulluru**  
 📍 VIT-AP University  
-🔗 [LinkedIn](https://www.linkedin.com/in/chandu-pulluru)
+🔗 [LinkedIn](https://www.linkedin.com/in/chandu-pulluru-92249728b/)
 
 ## Link
 https://chandupulluru.github.io/EmoBeats/
