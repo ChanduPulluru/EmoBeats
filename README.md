@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Demo
-🔗 Coming Soon (Add link after deployment or video demo)
+🔗 https://chandupulluru.github.io/EmoBeats/
 
 ---
 
@@ -29,12 +29,12 @@
 | Music API  | Spotify Web API                |
 
 ---
+## 🙋‍♂️ Author
 
-## 🖼️ Screenshots
+**Chandu Pulluru**  
+📍 VIT-AP University  
+🔗 [LinkedIn](https://www.linkedin.com/in/chandu-pulluru)
 
-> _(Add screenshots here after building the UI)_
-
----
-
-## 📁 Folder Structure
+## Link
+https://chandupulluru.github.io/EmoBeats/
 
