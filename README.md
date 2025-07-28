@@ -28,5 +28,13 @@
 | AI         | NLTK (VADER Sentiment Analyzer)|
 | Music API  | Spotify Web API                |
 
+---
 
+## 🖼️ Screenshots
+
+> _(Add screenshots here after building the UI)_
+
+---
+
+## 📁 Folder Structure
 
